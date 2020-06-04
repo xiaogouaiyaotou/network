@@ -1,4 +1,4 @@
 # Network
 Some summmaries after relearning network.
-### Packet-Switching
-Delay:nodal processing delay, queuing delay, transmission delay, propagation delay.
+### Handling HTTP Request
+要注意几个问题，检查格式是否正确，查看是GET还是POST，检查HTTP版本
