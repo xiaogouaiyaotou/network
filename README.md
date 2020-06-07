@@ -18,4 +18,8 @@ Some summmaries after relearning network.
 
 ### RAII机制
 ### 优雅关闭连接
+### STL优先队列
+优先队列的特点为，会将每次新加入的元素进行排序，根据开始的构造将最大/最小的元素置于队首，其利用了堆排序的方法 </br>
+构造小根堆优先队列 priority_queue<int,vector<int>, greater<int> > q; </br>
+ 大根堆优先队列   priority_queue< int> q; </br>
 
